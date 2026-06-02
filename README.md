@@ -1,5 +1,3 @@
-Hier is de Engelse versie, met dezelfde structuur en inhoud:
-
 **Introduction:**
 After taking several courses and with the start of my first internship approaching, I wanted to test my knowledge of data science by building a machine learning model. I chose a concrete question: can I predict the temperature for a future holiday destination?
 
